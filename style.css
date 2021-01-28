@@ -1,4 +1,5 @@
-/* This effects the whole page */* {
+/* This effects the whole page */
+* {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
